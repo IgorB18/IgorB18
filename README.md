@@ -19,11 +19,11 @@ A Computer Science Graduate aspiring to work as a Software Engineer, specialisin
 Here are a few technologies I've picked up along the way.
 </p>
 
-- 🗣 Java 𒑰 Python 𒑰 C++ 𒑰 Dart 𒑰 
+- 🗣 Java 𒑰 Python 𒑰 C++ 𒑰 Dart 𒑰 SQL
 - 🎒 Spring 𒑰 Flask
 - ☁ AWS 𒑰 Firebase
 - 📱 Flutter 𒑰 Android
-- ♽ Docker
+- ♽ Docker 𒑰 Linux 𒑰 Git
 - 🎨 Figma
 
 ### 🚧Project Highlight
@@ -34,7 +34,7 @@ Here are a few technologies I've picked up along the way.
 
 ### 🌱What I'm Learning
 
-Here are some things on my todo list.
+Here are some things on my todo list:
 
 - _More LeetCode_ 🧙🏽‍♂️
 - _Host a Portfolio website_ 🤖
